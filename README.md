@@ -18,5 +18,5 @@
 
 - 📫 How to reach me **11shafayet@gmail.com**
   
-- 🌐 My Portfolio [https://shafayetme](https://shafayet.me)
+- 🌐 My Portfolio [https://shafayet.me](https://shafayet.me)
 
