@@ -11,5 +11,4 @@
 - 📫 How to reach me: [11shafayet@gmail.com](mailto:11shafayet@gmail.com)
 - 🌐 My Portfolio: [https://shafayet.me/](https://shafayet.me/)
 
-![2](https://github.com/11Shafayet/11Shafayet/assets/65937591/65a65435-ae25-45cc-ab7e-18c5bb742543)
-
+![2](https://github.com/11Shafayet/11Shafayet/assets/65937591/154cd53d-1ffd-43cc-8b6c-fca808cc23c9)
