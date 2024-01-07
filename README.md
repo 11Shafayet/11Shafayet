@@ -8,8 +8,8 @@
 
 ---
 
-- 📫 How to reach me: [ismatjerinarpa@gmail.com](mailto:ismatjerinarpa@gmail.com)
-- 🌐 My Portfolio: [https://my-portfolio-38.netlify.app](https://my-portfolio-38.netlify.app)
+- 📫 How to reach me: [11shafayet@gmail.com](mailto:11shafayet@gmail.com)
+- 🌐 My Portfolio: [https://shafayet.me/](https://shafayet.me/)
 
-![Profile Image](./1.jpg)
+![Profile Image]([https://example.com/path/to/your/image.jpg](https://img.freepik.com/free-vector/programmer-concept-illustration_114360-3016.jpg?w=826&t=st=1704601033~exp=1704601633~hmac=0b95a265cada4ec061a27e2381f49d8717810f06a9bea169b59f341f2cb559fd)https://img.freepik.com/free-vector/programmer-concept-illustration_114360-3016.jpg?w=826&t=st=1704601033~exp=1704601633~hmac=0b95a265cada4ec061a27e2381f49d8717810f06a9bea169b59f341f2cb559fd)
 
