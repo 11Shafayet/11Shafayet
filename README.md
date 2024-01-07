@@ -6,9 +6,15 @@
 
 ## 👩‍💻 About me:
 
----
+<div>
+  <div style="float: left; width: 50%;">
+    <ul>
+      <li>📫 How to reach me: [11shafayet@gmail.com](mailto:11shafayet@gmail.com)</li>
+      <li>🌐 My Portfolio: [https://shafayet.me/](https://shafayet.me/)</li>
+    </ul>
+  </div>
 
-- 📫 How to reach me: [11shafayet@gmail.com](mailto:11shafayet@gmail.com)
-- 🌐 My Portfolio: [https://shafayet.me/](https://shafayet.me/)
-
-![2](https://github.com/11Shafayet/11Shafayet/assets/65937591/154cd53d-1ffd-43cc-8b6c-fca808cc23c9)
+  <div style="float: right; width: 50%;">
+    <img src="https://github.com/11Shafayet/11Shafayet/assets/65937591/154cd53d-1ffd-43cc-8b6c-fca808cc23c9" alt="Profile Image" width="200" height="200">
+  </div>
+</div>
