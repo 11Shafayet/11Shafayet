@@ -1,26 +1,30 @@
-<h1 align="center">Hi 👋, I'm Shafayetur Rahman</h1>
-<h3 align="center">A passionate React, Next JS developer from Bangladesh</h3>
-
-- 🌱 I’m currently learning **python**
-
-- 👨‍💻 All of my projects are available at [shafayet.me](shafayet.me)
-
-- 💬 Ask me about **React, Next JS, Typescript, Tailwind CSS and Javascript**
-
-- 📫 How to reach me **11shafayet@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shafayeturrahm2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shafayeturrahm2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shafayetur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafayetur-rahman/" height="30" width="40" /></a>
-<a href="https://fb.com/11shafayet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="11shafayet" height="30" width="40" /></a>
-<a href="https://instagram.com/shafayetur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shafayetur-rahman" height="30" width="40" /></a>
-<a href="https://dribbble.com/11shafayet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="11shafayet" height="30" width="40" /></a>
-<a href="https://www.behance.net/shafayerahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shafayerahman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/speedcoding1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="speedcoding1104" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=11shafayet&show_icons=true&locale=en&layout=compact" alt="11shafayet" /></p>
+ <style>
+      @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400;1,600&display=swap');
+      hr {
+        margin: 20px 0;
+      }
+      body {
+        font-family: 'Playfair Display', serif;
+      }
+      .font-secondary {
+        font-family: 'Lora', serif;
+      }
+      h1 {
+        text-align: center;
+        font-size: 40px;
+      }
+      .text-center {
+        text-align: center;
+      }
+    </style>
+    <section>
+      <h1 class="">Hello 👋 I'm Shafayetur Rahman</h1>
+      <hr />
+      <p class="text-center">
+        I am a MERN stack developer. I love to code and learn new things. I am
+        especially focused on front-end development. I have a great skill in
+        REACT JS and NEXT JS. I also use framer motion for animations as I love
+        moveable, playful websites. Along with this Tailwind CSS, Material UI
+        and Chakra UI are my favourite CSS libraries. 🚀
+      </p>
+    </section>
