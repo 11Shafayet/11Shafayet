@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shafayetur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafayetur rahman" height="30" width="40" /></a>
 <a href="https://www.facebook.com/11Shafayet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafayetur rahman" height="30" width="40" /></a>
-  <a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://www.instagram.com/md.shafayetur_rahman/" alt="shafayetur rahman" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/md.shafayetur_rahman/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shafayetur rahman" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">💻 Languages and Tools:</h2>
