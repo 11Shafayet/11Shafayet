@@ -10,7 +10,7 @@
 
 - 🔭 I love to learn **New Skills Regularly**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **C++**
 
 - 👀 I’m interested in **Web Developing**
 
